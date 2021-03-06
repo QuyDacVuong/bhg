@@ -7,6 +7,8 @@ import (
 	"os"
 )
 
+//main.go
+
 // FooReader defines an io.Reader to read from stdin.
 type FooReader struct{}
 
